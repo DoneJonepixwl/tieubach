@@ -1,0 +1,1870 @@
+
+<!doctype html>
+<html lang="vi">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="LIKETIK.VN là nền tảng hàng đầu giúp bạn tăng tương tác miễn phí trên các mạng xã hội như Facebook, TikTok, Instagram. Tăng Like, Follow, View, Comment nhanh chóng và hiệu quả.">
+    <meta name="author" content="Tài Hoàng">
+    <meta name="generator" content="Tài Hoàng">
+    <title>LIKETIK.VN - Nền tảng tăng tương tác mạng xã hội miễn phí và uy tín</title>
+    <meta name="keyword" content="LikeTik.Vn, Like Tik, LikeTik, liketik.vn, LikeTik Vn, liketik_vn, like tiktok, automxh, Tăng like Facebook, tuongtaccheo, traodoisub, tăng like, tăng follow facebook, tiktok, instagram, miễn phí, tương tác chéo, trao đổi sub. Hệ thống mua like uy tín, Tăng like giá rẻ , Dịch vụ tăng like tăng sub giá rẻ, tăng view video FB, Tăng người xem Livestream, tăng theo dõi, tăng like Facebook, tuongtaccheo, traodoisub, tăng like, tăng follow facebook, tiktok, instagram, miễn phí, tương tác chéo, trao đổi sub, giá rẻ đảm bảo uy tín, chất lượng, tăng like tiktok free, tăng like tiktok miễn phí, tăng fl miễn phí..." />
+    <meta name="copyright" content="Tài Hoàng" />
+    <meta http-equiv="content-language" content="vi" />
+    <meta property="og:locale" content="vi_VN">
+    <meta property="og:site_name" content="LIKETIK.VN - Tăng Tương Tác MXH Miễn Phí">
+    <meta property="og:url" content="https://liketik.vn" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:domain" content="liketik.vn" />
+    <meta property="og:title" content="LIKETIK.VN - Nền tảng tăng tương tác mạng xã hội miễn phí và uy tín" />
+    <meta property="og:description" content="Hệ Thống Tăng Tương Tác MXH Miễn Phí - Facebook | Instagram | Youtube | Tiktok | LIKETIK.VN" />
+    <meta name="og:title" content="LIKETIK.VN - Nền tảng tăng tương tác mạng xã hội miễn phí và uy tín">
+    <meta name="og:description" content="Hệ Thống Tăng Tương Tác MXH Miễn Phí - Facebook | Instagram | Youtube | Tiktok | LIKETIK.VN">
+
+    <!-- manifest meta -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="manifest" href="manifest.json" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="../assets/img/favicon180.png" sizes="180x180">
+    <link rel="icon" href="../assets/img/favicon32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="../assets/img/favicon16.png" sizes="16x16" type="image/png">
+
+    <!-- Google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <!-- bootstrap icons -->
+    <link rel="stylesheet" href="https://icons.getbootstrap.com/assets/font/bootstrap-icons.css">
+
+    <!-- swiper carousel css -->
+    <link rel="stylesheet" href="../assets/vendor/swiperjs-6.6.2/swiper-bundle.min.css">
+
+    <!-- style css for this template -->
+    <link href="../assets/css/style.min.css" rel="stylesheet" id="style">
+    
+    <!-- fontawesome -->
+    <link href="../assets/fontawesome/css/all.css" rel="stylesheet" id="style">
+    <link href="../assets/fontawesome/css/v4-shims.min.css" rel="stylesheet" id="style">
+
+    <!-- datatables -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+
+    <style>
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+        }
+
+        /* Works for Firefox */
+        input[type="number"] {
+        -moz-appearance: textfield;
+        }
+    </style>
+</head>
+
+<body class="body-scroll" data-page="index">
+
+    <!-- loader section -->
+    <div class="container-fluid loader-wrap">
+        <div class="row h-100">
+            <div class="col-10 col-md-6 col-lg-5 col-xl-3 mx-auto text-center align-self-center">
+                <div class="loader-cube-wrap loader-cube-animate mx-auto">
+                    <img src="../assets/img/logo.png" alt="Logo">
+                </div>
+                <p class="mt-4"><strong>Vui lòng đợi...</strong></p>
+            </div>
+        </div>
+    </div>
+    <div id="Loading" style="display: none;">
+        <div class="Loading-container">
+            <div class="Loading-message">
+                <div class="spinner">
+                    <div class="bar1"></div>
+                    <div class="bar2"></div>
+                    <div class="bar3"></div>
+                    <div class="bar4"></div>
+                    <div class="bar5"></div>
+                    <div class="bar6"></div>
+                    <div class="bar7"></div>
+                    <div class="bar8"></div>
+                    <div class="bar9"></div>
+                    <div class="bar10"></div>
+                    <div class="bar11"></div>
+                    <div class="bar12"></div>
+                </div>
+                <p style="color: white;"> Loading...</p>
+            </div>
+        </div>
+    </div>
+    <div id="toast"></div>
+    <!-- loader section ends -->
+<!-- Sidebar main menu -->
+<div class="sidebar-wrap  sidebar-pushcontent">
+        <!-- Add overlay or fullmenu instead overlay -->
+        <div class="closemenu text-muted">Close Menu</div>
+        <div class="sidebar dark-bg">
+            <!-- user information -->
+            <div class="row mb-3">
+                <div class="col-12 ">
+                    <div class="card shadow-sm bg-opac text-white border-0">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-auto">
+                                    <a class="LoadPage" href="#CaiDatTaiKhoan" TH="CaiDatTaiKhoan" title="Cài đặt tài khoản" DV="iTok">
+                                        <figure class="avatar avatar-44 rounded-15">
+                                            <img src="https://ui-avatars.com/api/?background=random&amp;name=K" alt="">
+                                        </figure>
+                                    </a>
+                                </div>
+                                <div class="col px-0 align-self-center">
+                                    <p class="mb-1">Khách</p>
+                                    <p class="text-muted size-12">Chưa đăng nhập!</p>
+                                </div>
+                                <div class="col-auto">
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- user emnu navigation -->
+            <div class="row">
+                <div class="col-12">
+                    <ul class="nav nav-pills">
+                        <li class="nav-item mb-1 iTok">
+                            <a class="nav-link LoadPage active" href="/" title="iTok.Pro" DV="iTok" tabindex="-1">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="bi bi-house"></i>
+                                </div>
+                                <div class="col">Trang chủ</div>
+                                <div class="arrow">
+                                    <i class="bi bi-chevron-right"></i>
+                                </div>
+                            </a>
+                        </li>
+                                                <li class="nav-item mb-1 dropdown Systems">
+                            <a class="nav-link dropdown-toggle  Systems" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="true">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="fa-solid fa-user"></i>
+                                </div>
+                                <div class="col">Hệ thống</div>
+                                <div class="arrow">
+                                    <i class="bi bi-plus plus"></i>
+                                    <i class="bi bi-dash minus"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu  Systems" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 52px, 0px);" data-popper-placement="bottom-start">
+                                                                <li>
+                                    <a class="nav-link LoadPage" href="#CaiDatTaiKhoan" TH="CaiDatTaiKhoan" title="Cài đặt tài khoản" DV="Systems">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-cogs" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="col">Cài đặt tài khoản</div>
+                                        <div class="arrow">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#GioiThieuKiemTien" TH="GioiThieuKiemTien" title="Kiếm tiền" DV="Systems">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-money" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="col">Kiếm tiền</div>
+                                        <div class="arrow">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#CapBac_BangGia" TH="CapBac_BangGia" title="Bảng giá" DV="Systems">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="bi bi-star-fill"></i>
+                                        </div>
+                                        <div class="col">Cấp bậc &amp; bảng giá</div>
+                                        <div class="arrow">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TaoWebDaiLy" TH="TaoWebDaiLy" title="Tạo Web Đại Lý" DV="Systems">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i aria-hidden="true">
+                                                <svg fill="#ffffff" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 391.984 391.984" xml:space="preserve" stroke="#ffffff">
+                                                    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="8.623648"></g>
+                                                    <g id="SVGRepo_iconCarrier">
+                                                        <g>
+                                                            <path class="color-background" d="M368.701,31.839H23.283C10.445,31.839,0,42.284,0,55.123v281.738c0,12.839,10.445,23.284,23.283,23.284h345.418 c12.84,0,23.283-10.445,23.283-23.284V55.123C391.984,42.285,381.541,31.839,368.701,31.839z M161.153,61.15 c0-2.923,2.393-5.315,5.314-5.315h31.87c2.923,0,5.313,2.392,5.313,5.315v9.994c0,2.923-2.392,5.315-5.313,5.315h-31.87 c-2.922,0-5.314-2.392-5.314-5.315V61.15L161.153,61.15z M95.717,61.15c0-2.923,2.392-5.315,5.314-5.315H132.9 c2.923,0,5.314,2.392,5.314,5.315v9.994c0,2.923-2.392,5.315-5.314,5.315h-31.869c-2.923,0-5.314-2.392-5.314-5.315V61.15z M31.938,61.15c0-2.923,2.392-5.315,5.314-5.315h31.869c2.923,0,5.314,2.392,5.314,5.315v9.994c0,2.923-2.392,5.315-5.314,5.315 H37.252c-2.923,0-5.314-2.392-5.314-5.315V61.15z M373.357,333.797c0,3.065-2.533,5.573-5.625,5.573H24.253 c-3.094,0-5.625-2.508-5.625-5.573V101.669c0-3.065,2.531-5.573,5.625-5.573h343.479c3.092,0,5.625,2.508,5.625,5.573V333.797z"></path>
+                                                            <path class="color-background" d="M138.026,245.023c0.988,2.09,0.853,5.463-0.303,7.496l-2.486,4.379c-1.155,2.034-0.747,5.051,0.907,6.704l14.57,14.569 c1.654,1.652,4.671,2.062,6.705,0.908l4.182-2.373c2.034-1.154,5.42-1.266,7.525-0.245l4.576,1.913 c2.201,0.789,4.512,3.279,5.133,5.535l1.473,5.338c0.621,2.256,3.043,4.1,5.382,4.1h20.605c2.339,0,4.762-1.844,5.382-4.1 l1.474-5.338c0.621-2.256,2.933-4.74,5.135-5.524l4.176-1.728c2.111-1.006,5.502-0.883,7.537,0.271l4.471,2.538 c2.033,1.153,5.051,0.746,6.705-0.907l14.57-14.568c1.654-1.653,2.062-4.67,0.908-6.705l-2.541-4.473 c-1.154-2.033-1.275-5.425-0.27-7.535l1.713-4.127c0.785-2.203,3.271-4.514,5.525-5.136l5.521-1.522 c2.254-0.621,4.098-3.043,4.098-5.383v-20.604c0-2.338-1.844-4.762-4.098-5.383l-5.521-1.521c-2.254-0.622-4.721-2.882-5.48-5.021 c-0.76-2.141-2.344-9.163-1.189-11.196l2.777-4.895c1.154-2.034,0.746-5.051-0.908-6.704l-14.566-14.567 c-1.654-1.653-4.672-2.062-6.705-0.908l-4.604,2.612c-2.035,1.154-5.42,1.263-7.523,0.241l-4.499-1.888 c-2.2-0.793-4.509-3.287-5.131-5.542l-1.572-5.699c-0.622-2.255-3.044-4.099-5.383-4.099H185.69c-2.339,0-4.761,1.844-5.383,4.099 l-1.572,5.699c-0.622,2.255-2.929,4.752-5.128,5.551l-4.902,2.079c-2.098,1.034-5.478,0.935-7.512-0.22l-4.309-2.446 c-2.034-1.154-5.051-0.746-6.705,0.907l-14.57,14.568c-1.654,1.653-2.063,4.67-0.908,6.704l2.727,4.802 c1.154,2.034,1.342,5.324,0.418,7.311c-0.924,1.987-4.688,7.99-6.941,8.612l-5.52,1.522c-2.254,0.621-4.099,3.043-4.099,5.382 v20.604c0,2.339,1.845,4.761,4.099,5.384l5.52,1.521C133.158,236.638,137.038,242.934,138.026,245.023z M195.993,179.977 c21.352,0,38.661,17.312,38.661,38.664s-17.311,38.662-38.661,38.662c-21.351,0-38.662-17.312-38.662-38.662 C157.331,197.289,174.641,179.977,195.993,179.977z"></path>
+                                                        </g>
+                                                    </g>
+                                                </svg>
+                                            </i>
+                                        </div>
+                                        <div class="col">Tạo website đại lý</div>
+                                        <div class="arrow">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item mb-1 NhiemVu">
+                            <a class="nav-link LoadPage" href="#NhiemVuNhanXu" TH="NhiemVuNhanXu" title="Nhiệm Vụ Nhận Xu" DV="NhiemVu" tabindex="-1">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="fa-solid fa-sack-dollar"></i>
+                                </div>
+                                <div class="col">Nhiệm vụ nhận xu</div>
+                                <div class="arrow">
+                                    <i class="bi bi-chevron-right"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item mb-1 dropdown Free">
+                            <a class="nav-link dropdown-toggle Free" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="fa-solid fa-gift" aria-hidden="true"></i>
+                                </div>
+                                <div class="col">Dịch vụ miễn phí</div>
+                                <div class="arrow">
+                                    <i class="bi bi-plus plus"></i>
+                                    <i class="bi bi-dash minus"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu Free" style="">
+                                <li>
+                                    <a class="dropdown-item nav-link LoadPage" href="#TangLikeTikTok" TH="TikTok_LikeVideo" title="Tăng Like TikTok" DV="Free" tabindex="-1">
+                                        <div class="avatar avatar-30 rounded icon ms-0 mx-1">
+                                            <i class="fab fa-tiktok" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Tim TikTok </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item nav-link LoadPage" href="#TangViewTikTok" TH="TikTok_ViewVideo" title="Tăng View TikTok" DV="Free" tabindex="-1">
+                                        <div class="avatar avatar-30 rounded icon ms-0 mx-1">
+                                            <i class="fab fa-tiktok" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View TikTok </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item nav-link LoadPage" href="#TangTimLiveTikTok" TH="TikTok_LikeLive" title="Tăng Tim Livestream" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-30 rounded icon ms-0 mx-1">
+                                            <i class="fab fa-tiktok" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Tim Livestream</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item nav-link LoadPage" href="#TangViewInstagram" TH="IG_View" title="Tăng View Instagram" DV="Free" tabindex="-1">
+                                        <div class="avatar avatar-30 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View Instagram</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item mb-1 dropdown TikTok">
+                            <a class="nav-link dropdown-toggle TikTok" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="fab fa-tiktok" aria-hidden="true"></i>
+                                </div>
+                                <div class="col">Dịch vụ TikTok</div>
+                                <div class="arrow">
+                                    <i class="bi bi-plus plus"></i>
+                                    <i class="bi bi-dash minus"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu TikTok">
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangLikeTikTok" TH="TikTok_LikeVideo" title="Tăng Like TikTok" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-heart"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Like</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangFollowTikTok" TH="TikTok_Follow" title="Tăng Follow TikTok" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-user-plus"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Follow</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangViewTikTok" TH="TikTok_ViewVideo" title="Tăng View TikTok" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-play"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangCommentTikTok" TH="TikTok_Comment" title="Tăng Bình Luận" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-regular fa-comment-dots"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Bình Luận</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangSaveTikTok" TH="TikTok_SaveVideo" title="Tăng Yêu Thích TikTok" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-bookmark"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Yêu Thích</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangShareTikTok" TH="TikTok_ShareVideo" title="Tăng Share TikTok" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-reply-fill" viewBox="0 0 16 16" style="margin-top: -5px;transform: scaleX(-1);">
+                                                <path d="M5.921 11.9 1.353 8.62a.719.719 0 0 1 0-1.238L5.921 4.1A.716.716 0 0 1 7 4.719V6c1.5 0 6 0 7 8-2.5-4.5-7-4-7-4v1.281c0 .56-.606.898-1.079.62z"></path>
+                                            </svg>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Chia Sẻ</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangViewLiveTikTok" TH="TikTok_ViewLive" title="Tăng View Livestream" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-user"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View Livestream</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangLikeLiveTikTok" TH="TikTok_LikeLive" title="Tăng Tim Livestream" DV="TikTok" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="bi bi-hearts"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Tim Livestream</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="#NapXuTikTok" onclick="NapXuTikTok()">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <img src="assets/img/tiktokcoin.png" alt="image" class="avatar avatar-20 rounded-circle mt-2-5" width="20">
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Nạp Xu TikTok</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item mb-1 dropdown Facebook">
+                            <a class="nav-link dropdown-toggle Facebook" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="fab fa-facebook" aria-hidden="true"></i>
+                                </div>
+                                <div class="col">Dịch vụ Facebook</div>
+                                <div class="arrow">
+                                    <i class="bi bi-plus plus"></i>
+                                    <i class="bi bi-dash minus"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu Facebook" style="">
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangLikeFB" TH="FB_LikePost" title="Tăng Like Post FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Like Bài Đăng</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangFollowFB" TH="FB_Follow" title="Tăng Follow FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-user-plus"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Follow</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangViewFB" TH="FB_View" title="Tăng View Video FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-eye" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View Video/Reel </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangShareFB" TH="FB_Share" title="Tăng Chia Sẻ FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-share"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Chia Sẻ </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangCommentFB" th="FB_Comment" title="Tăng Bình Luận" dv="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-regular fa-comment-dots"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Bình Luận</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangViewStoryFB" TH="FB_ViewStory" title="Tăng View Story FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-user-circle" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-danger" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View Story </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangLikePageFB" TH="FB_LikePage" title="Tăng Like Page FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-danger" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Like Page </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangFollowPageFB" TH="FB_FollowPage" title="Tăng Follow Page FB" DV="Facebook" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="bi bi-person-plus" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-danger" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Follow Page </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item mb-1 dropdown Instagram">
+                            <a class="nav-link dropdown-toggle Instagram" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                                </div>
+                                <div class="col">Dịch vụ Instagram</div>
+                                <div class="arrow">
+                                    <i class="bi bi-plus plus"></i>
+                                    <i class="bi bi-dash minus"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu Instagram" style="">
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangLikeIG" TH="IG_Like" title="Tăng Like IG" DV="Instagram" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-heart"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Like</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangFollowIG" TH="IG_Follow" title="Tăng Follow IG" DV="Instagram" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-user-plus"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng Follow</div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link LoadPage" href="#TangViewIG" TH="IG_View" title="Tăng View IG" DV="Instagram" tabindex="-1">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                            <i class="fa-solid fa-eye" aria-hidden="true"></i>
+                                            <span class="count-indicator bg-success" style="top: 5px;left: 5px;"></span>
+                                        </div>
+                                        <div class="col">Tăng View Video </div>
+                                        <div class="arrow mx-1">
+                                            <i class="bi bi-chevron-right"></i>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- <li>
+                            <a class="nav-link LoadPage" href="/MiniGame" tabindex="-1" onclick="loading()">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1">
+                                    <i class="bi bi-cash-coin"></i>
+                                    <span class="count-indicator bg-success" style="top: 5px;right: 5px;"></span>
+                                </div>
+                                <div class="col">Mini game kiếm xu</div>
+                                <div class="arrow">
+                                    <i class="bi bi-chevron-right"></i>
+                                </div>
+                            </a>
+                        </li> -->
+                        <li class="nav-item mb-3 dropdown">
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                                <div class="avatar avatar-40 rounded icon ms-0 mx-1"><i class="fa-solid fa-user"></i></div>
+                                <div class="col">Liên hệ hỗ trợ</div>
+                                <div class="arrow"><i class="bi bi-plus plus"></i> <i class="bi bi-dash minus"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu" style="">
+                                <li>
+                                    <a class="dropdown-item nav-link" target="_blank" href="https://zalo.me/0837888626">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1"><i class="bi bi-chat-text"></i></div>
+                                        <div class="col">Zalo: 0837888626</div>
+                                        <div class="arrow"><i class="bi bi-chevron-right"></i></div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item nav-link" target="_blank" href="https://zalo.me/g/tmtznx086">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1"><i class="bi bi-chat-text"></i>
+                                        </div>
+                                        <div class="col">Nhóm Zalo</div>
+                                        <div class="arrow"><i class="bi bi-chevron-right"></i></div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item nav-link" target="_blank" href="https://www.facebook.com/100052247825711">
+                                        <div class="avatar avatar-40 rounded icon ms-0 mx-1"><i class="bi bi-facebook"></i>
+                                        </div>
+                                        <div class="col">Facebook</div>
+                                        <div class="arrow"><i class="bi bi-chevron-right"></i></div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                                                <hr>
+                        <p class="text-muted size-12 text-center mt-2">© 2023-<script>document.write(new Date().getFullYear())</script>, Made by Tài Hoàng <i class="fa fa-heart" aria-hidden="true"></i>.</p>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sidebar main menu ends --><main class="h-100" id="main-page">
+  <div id="Landing">
+    <header class="header position-fixed">
+      <div class="row">
+          <div class="col-auto pe-0">
+              <a href="javascript:void(0)" target="_self" class="btn btn-dark btn-44 menu-btn">
+                  <i class="bi bi-list"></i>
+              </a>
+          </div>
+          <div class="col align-self-center text-center p-0">
+              <div class="logo-small" id="TieuDe">
+                  <img src="assets/img/logo.png" alt="" class="me-0">
+                  <h5>LIKETIK.VN</h5>
+              </div>
+          </div>
+          <div class="col-auto ps-0">
+              <a class="LoadPage btn btn-dark btn-44" href="#CaiDatTaiKhoan" TH="CaiDatTaiKhoan" title="Cài đặt tài khoản" dv="iTok" tabindex="-1">
+                  <i class="bi bi-person"></i>
+              </a>
+          </div>
+      </div>
+    </header>
+    <div class="main-container container">
+            <div id="mainTaiHoang">
+        <div class="row mb-2">
+    <div class="col-12">
+        <div class="card theme-bg text-center">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col align-self-center pe-1 px-lg-5 px-md-4 ps-2">
+                        <h6 class="mb-1 resp-text-2">LIKETIK.VN</h6>
+                        <p class="size-12 size-lg-32 text-muted-2 resp-text">Chuyên cung cấp dịch vụ và giải pháp gia tăng doanh số, nhận diện thương hiệu và tầm ảnh hưởng trên MXH. Hệ thống hỗ trợ giúp bạn gia tăng lượt Like, Follow, Share, Comment, View... trên các nền tảng như FB, IG, TikTok...</p>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-5 align-self-center ps-0 pe-2 px-lg-5 px-md-4">
+                        <img src="assets/img/landing-2.png" alt="" class="mw-100">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-6 px-1 ps-3">
+        <button type="button" id="btn_submit" onclick="OpenLogin()" class="btn btn-success w-100 shadow">Đăng nhập</button>
+    </div>
+    <div class="col-6 px-3 ps-1">
+        <button type="button" id="btn_submit" onclick="OpenReg()" class="btn btn-info w-100 shadow">Đăng ký</button>
+    </div>
+</div>
+<div class="row mb-3 text-center py-3 bg-theme-light">
+    <div class="col">
+        <h6 class="mb-0 counter">84432</h6>
+        <p class="text-muted small">Người dùng</p>
+    </div>
+    <div class="col">
+        <h6 class="mb-0 counter">494799</h6>
+        <p class="text-muted small">Đơn hàng</p>
+    </div>
+    <div class="col">
+        <h6 class="mb-0 counter">51</h6>
+        <p class="text-muted small">Dịch vụ</p>
+    </div>
+</div>
+<div class="row mb-2">                             
+    <div class="row mb-2">
+        <div class="col align-self-center ps-0" style="margin-left: 15px;">
+            <h5 class="text-color-theme"><span class="fw-normal"><i class="fa-solid fa-gift" aria-hidden="true"></i> Dịch vụ miễn phí </span></h5>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_LikeVideo" title="Tăng Like TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Like TikTok <i class="fa-solid fa-heart" style="color: #f63463;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-1 pe-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_ViewVideo" title="Tăng View TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng View TikTok <i class="fa-solid fa-play" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-lg-1 pe-1 pe-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_LikeLive" title="Tăng Tim Livestream" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Tim Livestream <i class="bi bi-hearts" style="color: #f63463;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-lg-1 ps-1 ps-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="IG_View" title="Tăng View Instagram" dv="Instagram">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Instagram_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng View Instagram <i class="fa-solid fa-eye"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row mb-2">                             
+    <div class="row mb-2">
+        <div class="col align-self-center ps-0" style="margin-left: 15px;">
+            <h5 class="text-color-theme"><span class="fw-normal"><i class="fab fa-tiktok" aria-hidden="true"></i> Dịch vụ TikTok</span></h5>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_LikeVideo" title="Tăng Like TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Like <i class="fa-solid fa-heart" style="color: #f63463;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-1 pe-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_Follow" title="Tăng Follow TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Follow <i class="fa-solid fa-user-plus"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-lg-1 pe-1 pe-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_ViewVideo" title="Tăng View TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng View <i class="fa-solid fa-play"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-lg-1 ps-1 ps-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_ShareVideo" title="Tăng Share TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-13">
+                        Tăng Chia Sẻ <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-reply-fill" viewBox="0 0 16 16" style="margin-top: -5px;transform: scaleX(-1);"><path d="M5.921 11.9 1.353 8.62a.719.719 0 0 1 0-1.238L5.921 4.1A.716.716 0 0 1 7 4.719V6c1.5 0 6 0 7 8-2.5-4.5-7-4-7-4v1.281c0 .56-.606.898-1.079.62z"></path></svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1 ps-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_Comment" title="Tăng Bình Luận TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-13">
+                        Tăng Bình Luận <i class="fa-solid fa-comment-dots"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_SaveVideo" title="Tăng Yêu Thích TikTok" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Yêu Thích [Lưu Video] <i class="fa-solid fa-bookmark" style="color:rgb(255, 174, 0);"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_ViewLive" title="Tăng View Livestream" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng View Livestream <i class="fa-solid fa-user"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-1 pe-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="TikTok_LikeLive" title="Tăng Tim Livestream" dv="TikTok">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Tim Livestream  <i class="bi bi-hearts" style="color: #f63463;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-lg-1 pe-1 pe-lg-3">
+        <div class="card mb-2">
+            <div class="card-body p-2" onclick="NapXuTikTok();">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/TikTok_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">Nạp Xu TikTok <img src="assets/img/tiktokcoin.png" alt="image" class="rounded-circle pt-0" width="20">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row mb-2">                             
+    <div class="row mb-2">
+        <div class="col align-self-center ps-0" style="margin-left: 15px;">
+            <h5 class="text-color-theme"><span class="fw-normal"><i class="fab fa-facebook" aria-hidden="true"></i> Dịch vụ Facebook</span></h5>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="FB_LikePost" title="Tăng Like Post FB" dv="Facebook">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Facebook_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Like<br>
+                        <span class="mt-lg--4-1 mt-md--4-1">
+                            <img src="assets/img/fb-reaction/like.png" alt="image" class="rounded-circle pt-1" width="15">
+                            <img src="assets/img/fb-reaction/love.png" alt="image" class="rounded-circle pt-1" width="15">
+                            <img src="assets/img/fb-reaction/care.png" alt="image" class="rounded-circle pt-1" width="15">
+                            <img src="assets/img/fb-reaction/haha.png" alt="image" class="rounded-circle pt-1" width="15">
+                            <img src="assets/img/fb-reaction/wow.png" alt="image" class="rounded-circle pt-1" width="15">
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-1 pe-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="FB_Follow" title="Tăng Follow FB" dv="Facebook">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Facebook_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Follow <i class="fa-solid fa-user-plus" style="color: #0073dc;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-lg-1 pe-1 pe-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="FB_View" title="Tăng View FB" dv="Facebook">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Facebook_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng View Video/Reel <i class="fa-solid fa-eye"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-lg-1 ps-1 ps-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="FB_Share" title="Tăng Chia Sẻ FB" dv="Faceboook">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Facebook_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Chia Sẻ <i class="fa-solid fa-share"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1 ps-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="FB_Comment" title="Tăng Bình Luận FB" dv="Facebook">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Facebook_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-13">
+                        Tăng Bình Luận <i class="fa-solid fa-comment-dots"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row mb-2">                             
+    <div class="row mb-2">
+        <div class="col align-self-center ps-0" style="margin-left: 15px;">
+            <h5 class="text-color-theme"><span class="fw-normal"><i class="fab fa-instagram" aria-hidden="true"></i> Dịch vụ Instagram</span></h5>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 pe-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="IG_Like" title="Tăng Like Instagram" dv="Instagram">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Instagram_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Like <i class="fa-solid fa-heart" style="color: #ff2222;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-1 pe-lg-1">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="IG_Follow" title="Tăng Follow Instagram">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Instagram_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng Follow <i class="fa-solid fa-user-plus ig_fl"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-4 ps-lg-1 pe-1 pe-lg-3">
+        <div class="card mb-2">
+            <div class="card-body LoadPage p-2" th="IG_View" title="Tăng View Instagram">
+                <div class="row">
+                    <div class="col-auto pe-2">
+                        <div class="avatar avatar-40">
+                        <img src="assets/img/Instagram_Logo.gif" alt="">
+                        </div>
+                    </div>
+                    <div class="col align-self-center ps-0 size-14 mt--1">
+                        Tăng View <i class="fa-solid fa-eye"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row mb-2">
+    <div class="col-12">
+        <h6>Cấp bậc &amp; Ưu đãi </h6>
+    </div>
+</div>
+<div class="row justify-content-center">
+    <div class="col-6 col-md-4 ps-2 px-1">
+        <div class="card mb-2 text-center shadow-sm">
+            <div class="card-header bg-primary text-white p-2">
+                <h6 class="my-1"><i class="bi bi-person"></i> Thành viên</h6>
+            </div>
+            <div class="card-body p-0">                        
+                <div class="d-flex justify-content-lg-start justify-content-center pt-2 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Tăng Free : 1 lượt / ngày </small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 text-muted mb-0 small p-2">
+                    <i class="far fa-times-circle opacity-10 text-danger pt-1 text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Giảm giá dịch vụ</small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 text-muted mb-0 small p-2">
+                    <i class="far fa-times-circle opacity-10 text-danger pt-1 text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Tạo website riêng </small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 text-muted mb-0 small p-2">
+                    <i class="far fa-times-circle opacity-10 text-danger pt-1 text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Hỗ trợ riêng </small>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-4 ps-1 px-2 px-lg-1">
+        <div class="card mb-2 text-center shadow-sm">
+            <div class="card-header bg-success text-white p-2">
+                <h6 class="my-1"><i class="bi bi-bookmark-star"></i> CTV</h6>
+            </div>
+            <div class="card-body p-0">                        
+                <div class="d-flex justify-content-lg-start justify-content-center pt-2 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Tăng Free : 5 lượt / ngày </small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 mb-0 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Giảm giá dịch vụ</small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 mb-0 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Tạo website riêng </small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 text-muted mb-0 small p-2">
+                    <i class="far fa-times-circle opacity-10 text-danger pt-1 text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Hỗ trợ riêng </small>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-8 col-md-4 ps-lg-1 px-2">
+        <div class="card mb-1 text-center shadow-sm">
+            <div class="card-header bg-dark text-white p-2">
+                <h6 class="my-1"><i class="bi bi-award-fill"></i> ĐẠI LÝ</h6>
+            </div>
+            <div class="card-body p-0">
+                <div class="d-flex justify-content-lg-start justify-content-center pt-2 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Tăng Free : 10 lượt / ngày </small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 mb-0 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Giảm giá dịch vụ</small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 mb-0 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Tạo website riêng </small>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-lg-start justify-content-center pt-0 mb-0 small p-2">
+                    <i class="far fa-check-circle opacity-10 text-success pt-1 text-gradient text-gradient" aria-hidden="true"></i>
+                    <div>
+                        <span class="ps-2">
+                            <small>Hỗ trợ riêng </small>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-12 text-center mt-auto">
+        <div class="row justify-content-center footer-info">
+            <div class="col-auto">
+                <p class="text-muted">Liên hệ hỗ trợ</p>
+            </div>
+            <div class="col-auto ps-0">
+                <a href="https://zalo.me/0837888626" target="_blank" class="p-1">
+                    <i class="bi bi-telephone-fill"></i> Zalo: 0837888626 </a>
+            </div>
+        </div>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+  
+<!-- ĐĂNG KÝ -->
+    <div class="row h-100 px-3" id="DangKy" style="display:none;margin-top: -85px;">
+        <div class="col-12 text-center mb-auto px-0">
+            <header class="header">
+                <div class="row">
+                    <div class="col-auto">
+                        <a href="#Home" onclick="OpenLanding();" target="_self" class="btn btn-light btn-44 shadow">
+                            <i class="bi bi-arrow-left"></i>
+                        </a>
+                    </div>
+                    <div class="col align-self-center">
+                        <h5>Đăng ký</h5>
+                    </div>
+                    <div class="col-auto">
+                        <a class="btn btn-44" onclick=""></a>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <div class="col-11 col-md-6 col-lg-5 col-xl-3 mx-auto align-self-center text-center py-4">
+            <form class="was-validated">
+                <div class="form-floating is-valid mb-3">
+                    <input class="form-control" type="text" name="phone" placeholder="Nhập số điện thoại" id="reg_phone" >
+                    <label for="username">Số điện thoại :</label>
+                </div>
+                <div class="form-floating is-valid mb-3">
+                    <input class="form-control" type="text" name="ten" placeholder="Nhập họ tên" id="reg_name" >
+                    <label for="country">Họ tên :</label>
+                </div>
+                <div class="form-floating is-valid mb-3">
+                    <input class="form-control" type="password" name="password" placeholder="Nhập mật khẩu" id="reg_pass" >
+                    <label for="password">Mật khẩu :</label>
+                    <button onclick="ShowPassword('reg_pass')" type="button" class="btn btn-link text-dark tooltip-btn">
+                        <i class="bi bi-eye"></i>
+                    </button>
+                </div>
+                <div class="form-floating is-valid mb-3">
+                    <input class="form-control" type="password" placeholder="Nhập lại mật khẩu" id="reg_pass2" >
+                    <label for="confirmpassword">Nhập lại mật khẩu :</label>
+                    <button onclick="ShowPassword('reg_pass2')" type="button" class="btn btn-link text-dark tooltip-btn">
+                        <i class="bi bi-eye"></i>
+                    </button>
+                </div>
+                                <button type="button" class="btn btn-lg btn-default w-100 mb-4 shadow" onclick="Register()">ĐĂNG KÝ</button>
+                <a href="#" class="float-end mb-3" onclick="OpenLogin()"> Đã có tài khoản <span class="badge bg-dark">ĐĂNG NHẬP NGAY <i class="fa fa-sign-in" aria-hidden="true"></i></span></a>
+            </form>
+        </div>
+    </div>
+<!-- ĐĂNG NHẬP -->
+    <div class="row h-100 px-3" id="DangNhap" style="display:none;margin-top: -85px;">
+        <div class="col-12 text-center mb-auto px-0">
+            <header class="header">
+                <div class="row">
+                    <div class="col-auto">
+                        <a href="#Home" onclick="OpenLanding();" target="_self" class="btn btn-light btn-44 shadow">
+                            <i class="bi bi-arrow-left"></i>
+                        </a>
+                    </div>
+                    <div class="col align-self-center">
+                        <h5>Đăng Nhập</h5>
+                    </div>
+                    <div class="col-auto">
+                        <a class="btn btn-light btn-44 invisible"></a>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <div class="col-11 col-md-6 col-lg-5 col-xl-3 mx-auto align-self-center text-center py-4">
+            <form class="was-validated">
+                <div class="form-floating is-valid mb-3">
+                    <input class="form-control" type="text" name="phone" placeholder="Nhập số điện thoại" id="login_phone" >
+                    <label for="username">Số điện thoại :</label>
+                </div>
+                <div class="form-floating is-valid mb-1">
+                    <input class="form-control" type="password" name="password" placeholder="Nhập mật khẩu" id="login_pass" >
+                    <label for="password">Mật khẩu :</label>
+                    <button onclick="ShowPassword('login_pass')" type="button" class="btn btn-link text-dark tooltip-btn">
+                        <i class="bi bi-eye"></i>
+                    </button>
+                </div>
+                <p class="mb-3 float-end">
+                    <a href="#" onclick="OpenGetPass()" class="badge bg-red">Quên mật khẩu <i class="fa-regular fa-circle-question"></i></a>
+                </p>
+                <button type="button" class="btn btn-lg btn-default w-100 mb-4 shadow" onclick="Login()">ĐĂNG NHẬP <i class="fa fa-sign-in" aria-hidden="true"></i></button>
+                <a href="#" class="float-end mb-3" onclick="OpenReg()">Chưa có tài khoản <span class="badge bg-dark">ĐĂNG KÝ NGAY</span></a>
+            </form>
+        </div>
+    </div>
+    <div class="row h-100 px-3" id="LayMatKhau" style="display:none;margin-top: -85px;">
+        <div class="col-12 text-center mb-auto px-0">
+            <header class="header">
+                <div class="row">
+                    <div class="col-auto">
+                        <a href="#Home" onclick="OpenLogin();" target="_self" class="btn btn-light btn-44 shadow">
+                            <i class="bi bi-arrow-left"></i>
+                        </a>
+                    </div>
+                    <div class="col align-self-center">
+                        <h5>Lấy lại mật khẩu</h5>
+                    </div>
+                    <div class="col-auto">
+                        <a class="btn btn-light btn-44 invisible"></a>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <div class="col-11 col-md-6 col-lg-5 col-xl-3 mx-auto align-self-center text-center py-4">
+            <form class="was-validated" data-gtm-form-interact-id="0" id="FormLayMatKhau">
+                <div class="form-floating is-valid mb-3">
+                    <input class="form-control" type="text" name="phone" placeholder="Nhập số điện thoại" id="get_pass_phone">
+                    <label for="username">Nhập số điện thoại của bạn</label>
+                </div>
+                <button type="button" class="btn btn-lg btn-default w-100 mb-4 shadow" onclick="CheckPhone()">Tiếp tục</button>
+            </form>
+            <div class="card shadow-sm mb-4" id="TabLayMatKhau" style="display: none;">
+                <div class="card-header p-1">
+                    <ul class="nav nav-pills nav-justified tabs" id="assetstabs" role="tablist">
+                        <li class="nav-item" onclick="$('#TabSMS').hide();$('#TabZALO').hide();$('#TabTELE').show();" role="presentation">
+                            <button class="nav-link size-13 p-2" id="WithTELE" data-bs-toggle="tab" data-bs-target="#history" type="button" role="tab" aria-controls="currency" aria-selected="false" style="font-size: 12px;line-height: 20px;">Lấy MK BẰNG TELE</button>
+                        </li>
+                        <li class="nav-item" onclick="$('#TabSMS').hide();$('#TabZALO').show();$('#TabTELE').hide();" role="presentation">
+                            <button class="nav-link size-13 p-2" id="WithZALO" data-bs-toggle="tab" data-bs-target="#history" type="button" role="tab" aria-controls="currency" aria-selected="true" style="font-size: 12px;line-height: 20px;">Lấy MK BẰNG ZALO</button>
+                        </li>
+                        <li class="nav-item" onclick="$('#TabSMS').show();$('#TabZALO').hide();$('#TabTELE').hide();" role="presentation">
+                            <button class="nav-link size-12 p-2" id="WithSMS" data-bs-toggle="tab" data-bs-target="#orderpage" type="button" role="tab" aria-controls="cards" aria-selected="false" style="font-size: 12px;line-height: 20px;">LẤY MK Bằng SMS</button>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-body" id="TabZALO" style="display: none;">
+                    <div class="row text-center">
+                        <div class="col-12">
+                            <div class="row">
+                                <h6 class="col mb-2">
+                                    <i class="bi bi-arrow-down"></i> Nhấp vào nút dưới, sau khi màn hình chuyển qua app Zalo hãy nhấn "<b style="color: blue;">CHO PHÉP</b>"
+                                </h6>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <a class="btn btn-dark shadow-sm" target="_blank" href="https://oauth.zaloapp.com/v4/permission?app_id=3248080479231001411&redirect_uri=https://itok.pro/LayMatKhau&state=LIKETIK.VN">Lấy mật khẩu bằng Zalo <i class="fa-solid fa-key"></i>
+                            </a>
+                            <p class="text-danger mt-2">LƯU Ý: Nếu bạn đang mở LIKETIK.VN bằng link trực tiếp trên TikTok hoặc một nền tảng khác có thể sẽ xảy ra lỗi không thể lấy mật khẩu, nếu lỗi hãy thử lại bằng cách vào một trình duyệt như Chrome hoặc Safari rồi tìm link "LIKETIK.VN" và thử lại trên trình duyệt.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body" id="TabSMS" style="display: none;">
+                    <div class="text-center">
+                        <h6 class="text-bold">Dùng số điện thoại "<b id="user_phone">của bạn</b>" để gửi tin nhắn đến số điện thoại hoặc Zalo của Admin: <a class="text-gradient text-primary text-bolder sms" href="#" onclick="copy('0339888626')">0339888626</a> theo cú pháp sau: <br>
+                            <a href="#" class="sms btn bg-primary p-2 size-12 text-white mt-2" id="CuPhapLayMK" onclick="copy('SDT_LAYMK_LIKETIK')">SDT_LAYMK_LIKETIK <i class="bi bi-copy text-dark"></i>
+                            </a>
+                        </h6>
+                    </div>
+                </div>
+                <div class="card-body" id="TabTELE" style="display: none;">
+                    <h6>Bước 1 : Nhấn vào nút này : <a class="btn btn-dark shadow-sm p-1 px-2 mt-2" target="_blank" href="https://t.me/liketikvn_bot" style="font-size: 14px;line-height: 25px;">Lấy mật khẩu bằng Telegram <i class="fa-solid fa-key"></i>
+                        </a>
+                    </h6>
+                    <h6 class="mt-2">Bước 2: Sau khi màn hình chuyển qua app Telegram nhấn nút <b style="color: blue;">Start</b>
+                    </h6>
+                    <h6 class="mt-2">Bước 3: Nhấn nút <b style="color: blue;">Lấy lại mật khẩu</b> rồi chọn <b style="color: blue;">OK</b>
+                    </h6>
+                </div>
+                <div class="col-12 text-center mt-auto card-footer">
+                    <div class="row justify-content-center">
+                        <div class="col-auto">
+                            <p class="text-muted">Liên hệ hỗ trợ</p>
+                        </div>
+                        <div class="col-auto ps-0">
+                            <a href="https://zalo.me/0837888626" target="_blank" class="p-1">
+                                <i class="bi bi-telephone-fill"></i> Zalo: 0837888626 </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script>
+    function ShowPassword(id) {
+      var x = document.getElementById(id);
+      if (x.type === "password") {
+        x.type = "text";
+      } else {
+        x.type = "password";
+      }
+    }
+    function OpenReg(){
+        $("#Landing").hide();
+        $("#DangNhap").hide();
+        $("#DangKy").show();
+        $("#LayMatKhau").hide();
+    }
+    function OpenLanding(){
+        $("#Landing").show();
+        $("#DangNhap").hide();
+        $("#DangKy").hide();
+        $("#LayMatKhau").hide();
+    }
+    function OpenLogin(){
+        $("#Landing").hide();
+        $("#DangNhap").show();
+        $("#DangKy").hide();
+        $("#LayMatKhau").hide();
+        $("#FormLayMatKhau").show();
+        $("#TabLayMatKhau").hide();
+    }
+    function OpenGetPass(){
+        $("#Landing").hide();
+        $("#DangNhap").hide();
+        $("#DangKy").hide();
+        $("#LayMatKhau").show();
+    }
+    function Register(){
+        $("#Loading").show();
+        var phone_value = $("#reg_phone").val();
+            phone = phone_value.replace(/\s+/g, ''); 
+            name = $("#reg_name").val();
+            pass = $("#reg_pass").val();
+            pass2 = $("#reg_pass2").val();
+        if (phone == ""||name == ""||pass == ""||pass2 == "") {
+        Swal.fire({
+            title: "Thất bại",
+            text: "Vui lòng nhập đầy đủ thông tin!",
+            icon: "error"
+        });
+        $("#Loading").hide();
+        return false;
+        }
+        if (pass != pass2) {
+        Swal.fire({
+            title: "Thất bại",
+            text: "Mật khẩu nhập lại không trùng khớp với mật khẩu bạn nhập trước đó!",
+            icon: "error"
+        });
+        $("#Loading").hide();
+        return false;
+        }
+        $.ajax({
+        dataType: "json",
+        url: "/DangKy",
+        method: "POST",
+        data: {phone:phone, name:name, password:pass},
+        success : function(response){
+            var data = response;
+            if (data['status'] == false) {
+            Swal.fire({
+                title: "Thất bại",
+                text: data["message"],
+                icon: "error"
+            });
+            $("#Loading").hide();
+            return false;
+            }else if (data['status'] == true) {
+            Swal.fire({
+                title: "Thành công",
+                text: data["message"],
+                icon: "success"
+            });
+            $("#Loading").hide();
+            setTimeout(function(){window.location.href = "/";}, 100);
+            }
+        },
+        error: function(xhr, status, error) {
+            console.log(error);
+            Swal.fire({
+            title: "Đã xảy ra lỗi",
+            text: "Thử lại sau ít phút nếu vẫn còn lỗi hãy liên hệ quản trị viên để được hỗ trợ!",
+            icon: "error"
+            });
+            $("#Loading").hide();
+            return false;
+        }
+        });
+    };
+    function Login(){
+        $("#Loading").show();
+        var phone_value = $("#login_phone").val();
+            phone = phone_value.replace(/\s+/g, ''); 
+            pass = $("#login_pass").val();
+        if (phone == ""||pass == "") {
+        Swal.fire({
+            title: "Thất bại",
+            text: "Vui lòng nhập đầy đủ thông tin!",
+            icon: "error"
+        });
+        $("#Loading").hide();
+        return false;
+        }
+        $.ajax({
+        dataType: "json",
+        url: "/DangNhap",
+        method: "POST",
+        data: {phone:phone, password:pass},
+        success : function(response){
+            var data = response;
+            if (data['status'] == false) {
+            Swal.fire({
+                title: "Thất bại",
+                text: data["message"],
+                icon: "error"
+            });
+            $("#Loading").hide();
+            return false;
+            }else if (data['status'] == true) {
+            Swal.fire({
+                title: "Thành công",
+                text: data["message"],
+                icon: "success"
+            });
+            $("html, body").animate({scrollTop: 0}, 0);
+            $("#Loading").hide();
+            setTimeout(function(){window.location.href = "/";}, 100);
+            }
+        },
+        error: function(xhr, status, error) {
+            console.log(error);
+            Swal.fire({
+            title: "Đã xảy ra lỗi",
+            text: "Thử lại sau ít phút nếu vẫn còn lỗi hãy liên hệ quản trị viên để được hỗ trợ!",
+            icon: "error"
+            });
+            $("#Loading").hide();
+            return false;
+        }
+        });
+    };
+    function CheckPhone(){
+        $("#Loading").show();
+        var phone = $("#get_pass_phone").val();
+        if (phone == "") {
+            Swal.fire({
+                title: "Thất bại",
+                text: "Vui lòng nhập đầy đủ thông tin!",
+                icon: "error"
+            });
+            $("#Loading").hide();
+            return false;
+        }
+        $.ajax({
+            dataType: "json",
+            url: "/CheckPhone",
+            method: "POST",
+            data: {phone:phone},
+            success : function(response){
+                var data = response;
+                if (data['status'] == false) {
+                    Swal.fire({
+                        title: "Thất bại",
+                        text: data["message"],
+                        icon: "error"
+                    });
+                    $("#Loading").hide();
+                    return false;
+                }else if (data['status'] == true) {
+                    $("#Loading").hide();
+                    $("#FormLayMatKhau").hide();
+                    $("#TabLayMatKhau").show();
+                    $("#user_phone").html(phone);
+                    $("#CuPhapLayMK").html(phone+"_LAYMK_LIKETIK");
+                    $("#CuPhapLayMK").attr("onclick", "copy('"+phone+"_LAYMK_LIKETIK')");
+                    $(".sms").attr("href", "sms:0339888626?body="+phone+"_LAYMK_LIKETIK")
+                    if(data['verify'] == "zalo"){
+                        $("#WithZALO").addClass("active");
+                        $("#TabZALO").show();
+                    }else{
+                        $("#WithTELE").addClass("active");
+                        $("#TabTELE").show();
+                        $('#WithZALO').closest('li').hide();
+                    }
+                }
+            },
+            error: function(xhr, status, error) {
+                console.log(error);
+                Swal.fire({
+                title: "Đã xảy ra lỗi",
+                text: "Thử lại sau ít phút nếu vẫn còn lỗi hãy liên hệ quản trị viên để được hỗ trợ!",
+                icon: "error"
+                });
+                $("#Loading").hide();
+                return false;
+            }
+        });
+    };
+</script></main>
+    <!-- Footer -->
+    <footer class="footer" style='display:none'>
+        <div class="container">
+            <ul class="nav nav-pills nav-justified mb-1">
+                <li class="nav-item">
+                    <a class="nav-link active" href="/home" onclick="loading()">
+                        <span>
+                            <i class="nav-icon bi bi-house"></i>
+                            <span class="nav-text">Home</span>
+                        </span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/orderlike" onclick="loading()">
+                        <span>
+                            <i class="nav-icon bi bi-heart"></i>
+                            <span class="nav-text">+ Tim</span>
+                        </span>
+                    </a>
+                </li>
+                <li class="nav-item centerbutton">
+                    <a class="nav-link" id="GetCoin" href="/getstar" onclick="loading()">
+                        <span class="theme-bg">
+                            <i width="30" height="30" fill="currentColor" class="bi bi-star text-warning" viewBox="0 0 16 16"></i>
+                        </span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/orderfollow" onclick="loading()">
+                        <span>
+                            <i class="nav-icon bi bi-person-plus"></i>
+                            <span class="nav-text">+ Follow</span>
+                        </span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" id="NapSao" href="/napsao" onclick="loading()">
+                        <span>
+                            <i class="nav-icon bi bi-star-fill text-warning"></i>
+                            <span class="nav-text">Nạp <i class="bi bi-star text-warning"></i></span>
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- Footer ends-->
+
+    <!-- Required jquery and libraries -->
+    <!-- <script src="../assets/js/jquery-3.3.1.min.js"></script> -->
+    <script src="../assets/js/jquery-3.5.1.min.js"></script>
+
+    <script src="../assets/js/popper.min.js"></script>
+    <script src="../assets/vendor/bootstrap-5/js/bootstrap.bundle.min.js"></script>
+
+    <!-- cookie js -->
+    <script src="../assets/js/jquery.cookie.js"></script>
+
+    <!-- Customized jquery file  -->
+    <script src="../assets/js/main.js"></script>
+    <script src="../assets/js/color-scheme.js"></script>
+
+    <!-- PWA app service registration and works -->
+    <script src="../assets/js/pwa-services.js"></script>
+
+    <!-- Chart js script -->
+    <script src="../assets/vendor/chart-js-3.3.1/chart.min.js"></script>
+
+    <!-- Progress circle js script -->
+    <script src="../assets/vendor/progressbar-js/progressbar.min.js"></script>
+
+    <!-- swiper js script -->
+    <script src="../assets/vendor/swiperjs-6.6.2/swiper-bundle.min.js"></script>
+
+    <!-- page level custom script -->
+    <script src="../assets/js/app.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../assets/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js"></script>
+
+    <script>
+    $(document).ready(function () {
+        if (window.matchMedia('(min-width: 991.98px)').matches) {
+            $("body").addClass("menu-open");
+            $("html").addClass("menu-open");
+        }
+        $('#data_order').DataTable({
+            bLengthChange: false,
+            bFilter: false,
+            paging: true,
+            ordering: false,
+            info: false,
+        });
+        $(".LoadPage").click(function(){ // load page
+            $("#Landing").show();
+            $("#mainTaiHoang").html("");
+            $("#Loading").show();
+            $('.LoadPage').removeClass("active");
+            $('.dropdown-menu').removeClass("show");
+            $('.dropdown-toggle').removeClass("show");
+            $('.nav-item').removeClass("show");
+
+            var TH = $(this).attr("TH");
+                fileload = TH;
+                title = $(this).attr("title");
+                DV = $(this).attr("DV");
+            setTimeout(() => {
+                $('.'+DV).addClass("show");
+            }, "1");
+            document.querySelectorAll(`a[TH="${TH}"]`).forEach(el => {
+                el.classList.add('active');
+            });
+            if(DV == "TikTok"){
+                logo_title = '<h6><i class="fab fa-tiktok" aria-hidden="true"></i> '+title+'</h6>';
+            }else if(DV == "Facebook"){
+                logo_title = '<h6><i class="fab fa-facebook" aria-hidden="true"></i> '+title+'</h6>';
+            }else if(DV == "Instagram"){
+                logo_title = '<h6><i class="fab fa-instagram" aria-hidden="true"></i> '+title+'</h6>';
+            }else if(DV == "iTok"){
+                logo_title = '<img src="../assets/img/logo.png" alt=""><h5>'+title+'</h5>';
+            }else{
+                logo_title = '<h6>'+title+'</h6>';
+            }
+            $("#mainTaiHoang").load(fileload, function( response, status, xhr ) {
+                if ( status == "error" ) {
+                    $("#Loading").hide();
+                    // ThongBao("error", "Thất bại!", "Đã có lỗi xảy ra, thử lại sau!");
+                    ThongBao("error", "Thất bại!", title+" đang bảo trì và sẽ sớm mở lại, thử lại sau!");
+                    return;
+                }
+                window.loaded = true;
+                if (window.matchMedia('(max-width: 991.98px)').matches) {
+                    $(".menu-open").removeClass("menu-open");
+                }
+                $("#TieuDe").html(logo_title);
+                $("#Loading").hide();
+            });
+        });
+            });
+    function loading() {
+        $("#Loading").show();
+    }
+    function menu() {
+        $("body").addClass("menu-open");
+    }
+    function TatThongBao(id){ // tắt thông báo
+      if($('#Tat'+id).is(':checked') == true){
+        $.cookie("An"+id, 1, { expires : 1 });
+      }
+    };
+    function BatThongBao(id){ //bật thông báo
+      if (typeof $.cookie('An'+id) === 'undefined'){ 
+        $('#'+id).show();
+      }
+    }
+    const Toast = Swal.mixin({
+        toast: true,
+        position: "top-end",
+        showConfirmButton: false,
+        timer: 5000,
+        timerProgressBar: true,
+        didOpen: (toast) => {
+            toast.onmouseenter = Swal.stopTimer;
+            toast.onmouseleave = Swal.resumeTimer;
+        }
+    });
+    function ThongBaoNhanh(type, tieude, noidung, thoigian){
+        Toast.fire({
+            icon: type,
+            title: noidung
+        });
+    }
+    function ThongBao(type, tieude, noidung){
+      Swal.fire({
+        title: tieude,
+        text: noidung,
+        icon: type
+      });
+    }
+    function ReloadTable(id){ //Làm mới DataTable
+      $("#Loading").show();
+      $("#Table"+id).load("Data_"+id, function( response, status, xhr ) {
+        if ( status == "error" ) {
+          $("#Loading").hide();
+          ThongBao("error", "Thất bại!", "Đã có lỗi xảy ra, thử lại sau!");
+          return;
+        }
+        window.loaded = true;
+        ThongBao("success", "Thành công!", "Đã làm mới bảng dữ liệu");
+        $("#Loading").hide();
+      });
+    }
+    function copy(text) { // Copy
+      ThongBao("success", "Thành công!", "Đã sao chép: "+text, "");
+      if (window.clipboardData && window.clipboardData.setData) {
+          // Internet Explorer-specific code path to prevent textarea being shown while dialog is visible.
+          return window.clipboardData.setData("Text", text);
+      }else if (document.queryCommandSupported && document.queryCommandSupported("copy")) {
+        var textarea = document.createElement("textarea");
+        textarea.textContent = text;
+        textarea.style.position = "fixed";  // Prevent scrolling to bottom of page in Microsoft Edge.
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+            return document.execCommand("copy");  // Security exception may be thrown by some browsers.
+        }catch (ex) {
+            console.warn("Copy to clipboard failed.", ex);
+            return prompt("Copy to clipboard: Ctrl+C, Enter", text);
+        }finally {
+            document.body.removeChild(textarea);
+        }
+      }
+    }
+    function NapXuTikTok(){
+        Swal.fire({
+            icon: 'info',
+            title: 'Nạp Xu Donate TikTok Giá Rẻ',
+            text: "Liên hệ Zalo: 0837888626 để nạp xu donate TikTok giá rẻ chỉ từ 270k-300k/1000 xu",
+        });
+    }
+    function BaoHanh(id_order){
+        $("#Loading").show();
+        $.ajax({
+            dataType: "json",
+            url: "/BaoHanh",
+            method: "POST",
+            data: {order_id:id_order},
+            success : function(response){
+                var data = response;
+                if (data['status'] == false) {
+                    if (data["login"] == false) {
+                        $("#Loading").hide();
+                        $("body").append(`<div id="alert_login" class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y:auto"><div aria-labelledby="swal2-title" aria-describedby="swal2-html-container" class="swal2-popup swal2-modal swal2-icon-error swal2-show" tabindex="-1" role="dialog" aria-live="assertive" aria-modal="true" style="display:grid"><div class="swal2-icon swal2-error swal2-icon-show" style="display:flex"><span class="swal2-x-mark"><span class="swal2-x-mark-line-left"></span><span class="swal2-x-mark-line-right"></span></span></div><h2 class="swal2-title" id="swal2-title" style="display:block">Lỗi!</h2><div class="swal2-html-container" style="display:block">Bạn chưa đăng nhập!</div><input class="swal2-input" style="display:none"><div class="swal2-actions"><div class="swal2-loader"></div><button type="button" class="swal2-confirm swal2-styled" aria-label="" style="display:inline-block" onclick='$("#alert_login").hide()'>OK</button></div></div></div>`);
+                        setTimeout(function() {
+                            window.location.href = "/"
+                        }, 1e3);
+                        return;
+                    }
+                    ThongBao("error", "Thất bại", data["message"]);
+                    $("#Loading").hide();
+                    return false;
+                }else if (data['status'] == true) {
+                    ThongBao("success", "Thành công", data["message"]);
+                    $("#Loading").hide();
+                }
+            },
+            error: function(xhr, status, error) {
+                console.log(error);
+                ThongBao("error", "Lỗi hệ thống", "Liên hệ quản trị viên để được hỗ trợ!");
+                $("#Loading").hide();
+                return false;
+            }
+        })
+    }
+    $('.counter').counterUp({
+        delay: 50,
+        time: 2000
+    });
+    $('.counter').addClass('animated fadeInDownBig');
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4J06P534F9"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4J06P534F9');
+    </script>
+
+    <script language="JavaScript">
+        if (top.location != self.location)
+        {top.location = self.location}
+    </script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"b803255040d3486397134aaa92d999e8","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
